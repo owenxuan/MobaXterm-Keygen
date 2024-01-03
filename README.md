@@ -12,7 +12,7 @@
 
 3. 下载破解文件
 
-   [MobaXterm-Keygen.py](http://owenxuan.link:3000/owenxuan/DBeaver-Keygen/raw/branch/main/DBeaver-Keygen.jar)
+   [MobaXterm-Keygen.py](https://github.com/owenxuan/MobaXterm-Keygen/raw/main/MobaXterm-Keygen.py)
 
 ## 开始安装
 
