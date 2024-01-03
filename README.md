@@ -28,7 +28,7 @@
 
 1. 进入破解文件所在路径，右键在终端打开
 
-   ![image-20240103145414127](./../../../AppData/Roaming/Typora/typora-user-images/image-20240103145414127.png)
+   ![image-20240103145414127](http://owenxuan.test.upcdn.net/MarkDown/image-20240103145414127.png)
 
 2. 输入
 
@@ -36,7 +36,7 @@
    python MobaXterm-Keygen.py UserName 23.2
    ```
 
-   ![5324f2b6dcd030a1330eee4b802695c](./../../WeChat Files/wxid_6306903069011/FileStorage/Temp/5324f2b6dcd030a1330eee4b802695c.png)
+   ![5324f2b6dcd030a1330eee4b802695c](http://owenxuan.test.upcdn.net/MarkDown/5324f2b6dcd030a1330eee4b802695c.png)
 
 3. 复制`Custom.mxtpro`到`C:\Program Files (x86)\Mobatek\MobaXterm`（默认路径，根据实际路径修改）
 
